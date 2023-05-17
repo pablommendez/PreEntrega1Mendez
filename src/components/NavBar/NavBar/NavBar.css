@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+.header {
+    background-color: #8082a1;
+}
+
+.NavBarWrapper {
+    width: 85%;
+    margin: auto;
+    overflow: hidden;
+    font-size: 1.5rem;
+}
+
+.NavBarFont {
+    font-family: 'Wix Madefor Display', sans-serif;
+    color: white;
+}
+
+.NavBarLogo {
+    width: 60rem;
+    height: 8rem;
+}
